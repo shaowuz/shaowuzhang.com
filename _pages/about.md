@@ -21,7 +21,7 @@ Seminars
 I am co-organizing a student seminar on mixed hodge modules with Siyang Liu.
 
 
-Teachings
+Teaching
 ------
 2023-2024 Winter, Ma 3 Introduction to Probability and Statistics, Head TA
 
