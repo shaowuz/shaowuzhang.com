@@ -22,7 +22,7 @@ author:
 # Biographic information
   avatar           : "myphoto.jpg"
   location         : "Caltech, Linde Hall 382"
-  uri              : "https://shaowuzhang.com" 
+  uri              : #"https://shaowuzhang.com" 
   email            : "szhang7@caltech.edu" 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
