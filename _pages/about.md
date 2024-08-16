@@ -39,7 +39,3 @@ Teaching
 2022-2023 Fall, Ma 2 Differential Equations, TA 
 
 
-
-<div style="position: absolute; bottom: 0; right: 0;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tJCzo5Z4VxWGoLMIi2qWfQJGmld6YScoEBXR1XMhch0&cl=ffffff&w=a"></script>
-</div>
