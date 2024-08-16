@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaowu Zhang (Ivan)"
+title: "Shaowu Zhang (Ivan) - 张少武"
 author_profile: true
 redirect_from: 
   - /about/
