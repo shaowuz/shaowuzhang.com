@@ -156,22 +156,20 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
-# These settings control the types of collections used by the template
 collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-    # Scope and values need to be part of the teaching collection, not a separate item
-    defaults:
-      - scope:
-          path: ""
-          type: teaching
-        values:
-          layout: single
-          author_profile: true
-          share: true
-          comments: true
+    # Scope and values should be directly under the collection or properly aligned in the structure.
+  scope:
+    path: ""
+    type: teaching
+  values:
+    layout: single
+    author_profile: true
+    share: true
+    comments: true
+
 
 
 
