@@ -30,7 +30,7 @@ Education
 2022-     California Institute of Technology, PhD  <br>
 2020-2022 University of Paris Saclay (Orsay), Master <br>
 2016-2020 University of Hong Kong, BSc <br>
-<pre> 
+</pre> 
 Teaching
 ------
 2023-2024 Winter, Ma 3 Introduction to Probability and Statistics, Head TA <br> 
