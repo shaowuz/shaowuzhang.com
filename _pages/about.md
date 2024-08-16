@@ -37,5 +37,3 @@ Teaching
 2022-2023 Spring, Ma 1c Calculus of Several Variables, TA <br> 
 2022-2023 Winter, Ma 3 Introduction to Probability and Statistics, TA<br> 
 2022-2023 Fall, Ma 2 Differential Equations, TA 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tJCzo5Z4VxWGoLMIi2qWfQJGmld6YScoEBXR1XMhch0&cl=ffffff&w=a"></script>
