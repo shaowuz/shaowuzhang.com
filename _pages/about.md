@@ -41,7 +41,8 @@ Teaching
 
 
 
+<button onclick="document.getElementById('clustrmaps-container').style.display='block';">Show Visitor Map</button>
 
-<div style="width: 100px; height: 100px; overflow: hidden;">
+<div id="clustrmaps-container" style="display: none;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tJCzo5Z4VxWGoLMIi2qWfQJGmld6YScoEBXR1XMhch0&cl=ffffff&w=a"></script>
 </div>
