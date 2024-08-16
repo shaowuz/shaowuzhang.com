@@ -42,4 +42,6 @@ Teaching
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tJCzo5Z4VxWGoLMIi2qWfQJGmld6YScoEBXR1XMhch0&cl=ffffff&w=a"></script>
+<div style="width: 50px; height: 50px; overflow: hidden;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tJCzo5Z4VxWGoLMIi2qWfQJGmld6YScoEBXR1XMhch0&cl=ffffff&w=a"></script>
+</div>
