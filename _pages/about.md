@@ -29,7 +29,7 @@ I am co-organizing a student seminar on mixed Hodge modules with Siyang Liu.
 Teaching
 ------
 2023-2024 Winter, Ma 3 Introduction to Probability and Statistics, Head TA <br> 
-2023-2024 Fall, Ma 120a Abstract Algebra, TA<br> 
+2023-2024 Fall, Ma 120a Abstract Algebra, TA <br> 
 2022-2023 Spring, Ma 1c Calculus of Several Variables, TA <br> 
 2022-2023 Winter, Ma 3 Introduction to Probability and Statistics, TA<br> 
-2022-2023 Fall, Ma 2 Differential Equations, TA <br> 
+2022-2023 Fall, Ma 2 Differential Equations, TA 
