@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shaowu Zhang (Ivan) - 张少武"
+title                    : "Shaowu Zhang's Homepage"
 title_separator          : "-"
-name                     : &name "Shaowu Zhang (Ivan)"
+name                     : &name "Shaowu Zhang (Ivan) - 张少武"
 url                      : "https://shaowuzhang.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
