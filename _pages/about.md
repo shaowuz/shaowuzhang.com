@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year graduate student at Caltech under the supervision of Professor [Tony Yue Yu](https://tyy.caltech.edu/). My research focuses on mirror symmetry, enumerative geometry, Hodge theory and D-modules. I am also interested in non-archimedean geometry and symplectic geometry. 
+I am a graduate student at Caltech under the supervision of Professor [Tony Yue Yu](https://tyy.caltech.edu/). My research focuses on mirror symmetry, enumerative geometry, Hodge theory and D-modules. I am also interested in non-archimedean geometry and symplectic geometry. 
 
 **Email** : szhang7 at caltech dot edu
 
