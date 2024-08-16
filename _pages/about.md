@@ -18,7 +18,7 @@ Research
 
 Seminars
 ------
-I co-organize a student seminar on mixed hodge modules with Siyang Liu.
+I am co-organizing a student seminar on mixed hodge modules with Siyang Liu.
 
 
 Teachings
