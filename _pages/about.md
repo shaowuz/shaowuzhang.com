@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am a second-year graduate student at Caltech under the supervision of Professor [Tony Yu Yue](https://tyy.caltech.edu/). My research focuses on mirror symmetry, Hodge theory, and D-modules.
+**Email** : szhang7 at caltech dot edu
 
 Research
 ------
