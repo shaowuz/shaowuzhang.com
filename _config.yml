@@ -162,19 +162,16 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  
-
-
-
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+    # Scope and values need to be part of the teaching collection, not a separate item
+    defaults:
+      - scope:
+          path: ""
+          type: teaching
+        values:
+          layout: single
+          author_profile: true
+          share: true
+          comments: true
 
 
 
