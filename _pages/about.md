@@ -10,19 +10,19 @@ redirect_from:
 I am a second-year graduate student at Caltech under the supervision of Professor [Tony Yu Yue](https://tyy.caltech.edu/). My research focuses on mirror symmetry, Hodge theory, and D-modules.
 
 Research
-======
+------
 **Topological Laplace Transform and Decomposition of nc-Hodge Structures**, joint with T. Y. Yu, ([arXiv:2405.19549]((https://arxiv.org/pdf/2405.19549))), 2024.
 
 **Non-commutative Hodge Structures: Gluing Theorem**, M2 Mémoire.
 
 
 Seminars
-======
+------
 I co-organize a student seminar on mixed hodge modules with Siyang Liu.
 
 
 Teachings
-======
+------
 2023-2024 Winter, Ma 3 Introduction to Probability and Statistics, Head TA
 
 2023-2024 Fall, Ma 120a Abstract Algebra, TA
