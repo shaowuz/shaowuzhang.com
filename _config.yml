@@ -12,7 +12,7 @@ title                    : "Shaowu Zhang (Ivan)"
 title_separator          : "-"
 name                     : &name "Shaowu Zhang (Ivan)"
 description              : &description "Second year graduate student at Caltech"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : www.shaowuzhang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -162,15 +162,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  
 
 
 
