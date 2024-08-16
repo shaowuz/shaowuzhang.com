@@ -9,10 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Shaowu Zhang (Ivan)"
-title                    : "Shaowu Zhang (Ivan)-"
 title_separator          : "-"
 name                     : &name "Shaowu Zhang (Ivan)"
-name                     : &name "Shaowu Zhang (Ivan)-"
 description              : &description "Second year graduate student at Caltech"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,10 +22,9 @@ author:
   # Biographic information
   avatar           : "images/bio-photo.jpg"
   name             : "Shaowu Zhang (Ivan)"
-  name             : "Shaowu Zhang (Ivan)-"
   bio              : "Second year graduate student at Caltech"
   location         : "Pasadena, USA"
-  uri              : # URL
+  uri              : www.shaowuzhang.com 
   email            : "szhang7@caltech.edu" 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
