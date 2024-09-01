@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shaowu Zhang's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shaowu Zhang"
 url                      : "https://shaowuzhang.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
