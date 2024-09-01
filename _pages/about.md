@@ -14,6 +14,8 @@ I am a graduate student at Caltech under the supervision of Professor [Tony Yue 
 
 Research
 ------
+Formal and Non-archimedean F-bundles and Applications to Mirror Symmetry, joint with T. Hinault, C. Zhang, T. Y. Yu, in preparation.
+
 Topological Laplace Transform and Decomposition of nc-Hodge Structures, joint with T. Y. Yu, ([arXiv:2405.19549](https://arxiv.org/pdf/2405.19549)), 2024.
 
 Non-commutative Hodge Structures: Gluing Theorem, M2 Mémoire.
