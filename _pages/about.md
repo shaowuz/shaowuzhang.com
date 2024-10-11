@@ -34,6 +34,9 @@ Education
 
 Teaching
 ------
+2024-2025 Fall, Ma 2 Differential Equations, TA
+Recitation <a href="2024_ma2_recitation/2024 Ma 2 rec2.pdf" target="_blank">2</a>
+
 2023-2024 Winter, Ma 3 Introduction to Probability and Statistics, Head TA <br> 
 2023-2024 Fall, Ma 120a Abstract Algebra, TA <br> 
 2022-2023 Spring, Ma 1c Calculus of Several Variables, TA <br> 
