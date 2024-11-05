@@ -29,7 +29,7 @@ I am co-organizing a student seminar on mixed Hodge modules with Siyang Liu.
 
 Education
 ------
-2022 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;California Institute of Technology, PhD  <br>
+2022 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;California Institute of Technology, PhD  <br>
 2020 - 2022 University of Paris Saclay (Orsay), Master <br>
 2016 - 2020 University of Hong Kong, BSc <br>
 
