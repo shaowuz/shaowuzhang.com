@@ -29,19 +29,19 @@ I am co-organizing a student seminar on mixed Hodge modules with Siyang Liu.
 
 Education
 ------
-2022-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;California Institute of Technology, PhD  <br>
-2020-2022 University of Paris Saclay (Orsay), Master <br>
-2016-2020 University of Hong Kong, BSc <br>
+2022 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;California Institute of Technology, PhD  <br>
+2020 - 2022 University of Paris Saclay (Orsay), Master <br>
+2016 - 2020 University of Hong Kong, BSc <br>
 
 Teaching
 ------
-2024-2025 Fall, Ma 2 Differential Equations, Recitation <a href="2024_ma2_recitation/2024 Ma 2 rec1.pdf" target="_blank">1</a> <a href="2024_ma2_recitation/2024 Ma 2 rec2.pdf" target="_blank">2</a> <a href="2024_ma2_recitation/2024 Ma 2 rec3.pdf" target="_blank">3</a> <a href="2024_ma2_recitation/2024 Ma 2 rec4.pdf" target="_blank">4</a> <a href="2024_ma2_recitation/2024 Ma 2 rec5.pdf" target="_blank">5</a> 
+2024 - 2025 Fall, Ma 2 Differential Equations, Recitation <a href="2024_ma2_recitation/2024 Ma 2 rec1.pdf" target="_blank">1</a> <a href="2024_ma2_recitation/2024 Ma 2 rec2.pdf" target="_blank">2</a> <a href="2024_ma2_recitation/2024 Ma 2 rec3.pdf" target="_blank">3</a> <a href="2024_ma2_recitation/2024 Ma 2 rec4.pdf" target="_blank">4</a> <a href="2024_ma2_recitation/2024 Ma 2 rec5.pdf" target="_blank">5</a> 
 
-2023-2024 Winter, Ma 3 Introduction to Probability and Statistics, Head TA <br> 
-2023-2024 Fall, Ma 120a Abstract Algebra, TA <br> 
-2022-2023 Spring, Ma 1c Calculus of Several Variables, TA <br> 
-2022-2023 Winter, Ma 3 Introduction to Probability and Statistics, TA<br> 
-2022-2023 Fall, Ma 2 Differential Equations, TA 
+2023 - 2024 Winter, Ma 3 Introduction to Probability and Statistics, Head TA <br> 
+2023 - 2024 Fall, Ma 120a Abstract Algebra, TA <br> 
+2022 - 2023 Spring, Ma 1c Calculus of Several Variables, TA <br> 
+2022 - 2023 Winter, Ma 3 Introduction to Probability and Statistics, TA<br> 
+2022 - 2023 Fall, Ma 2 Differential Equations, TA 
 
 
 <div style="position: absolute; bottom: 0; right: 0; width: 150px; height: 150px; overflow: hidden;">
