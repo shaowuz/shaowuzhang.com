@@ -22,16 +22,19 @@ Topological Laplace Transform and Decomposition of nc-Hodge Structures, joint wi
 Non-commutative Hodge Structures: Gluing Theorem, M2 Mémoire.
 
 
-
-Seminars
+Invited Talks
 ------
-I am co-organizing a student seminar on mixed Hodge modules with Siyang Liu.
+
+2024.11 Oberwolfach Seminar, Mathematisches Forschungsinstitut Oberwolfach, Germany.
+2024.11 Caltech/USC Algebra and Geometry Seminar, University of South California, USA.
+
 
 Education
 ------
 2022 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;California Institute of Technology, PhD  <br>
 2020 - 2022 University of Paris Saclay (Orsay), Master <br>
-2016 - 2020 University of Hong Kong, BSc <br>
+2016 - 2020 University of Hong Kong, BSc <be>
+
 
 Teaching
 ------
