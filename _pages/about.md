@@ -26,7 +26,7 @@ Invited Talks
 ------
 
 2024.11 Oberwolfach Seminar, Mathematisches Forschungsinstitut Oberwolfach, Germany.
-2024.11 Caltech/USC Algebra and Geometry Seminar, University of South California, USA.
+2024.11 Caltech/USC Algebra and Geometry Seminar, University of Southern California, USA.
 
 
 Education
