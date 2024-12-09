@@ -24,7 +24,7 @@ Non-commutative Hodge Structures: Gluing Theorem, M2 Mémoire.
 
 Invited Talks
 ------
-
+2025.04 MIT Symplectic Seminar, Massachusetts Institute of Technology, USA.
 2024.11 Oberwolfach Seminar, Mathematisches Forschungsinstitut Oberwolfach, Germany.
 2024.11 Caltech/USC Algebra and Geometry Seminar, University of Southern California, USA.
 
