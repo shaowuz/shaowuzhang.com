@@ -38,7 +38,7 @@ Education
 Activities
 ------
 
-I am co-organizing [Winter School on Enumerative Geometry and Mirror Symmetry](https://sites.google.com/view/caltechwinterschool/home), January 22-24, 2025, Caltech. 
+I co-organized [Winter School on Enumerative Geometry and Mirror Symmetry](https://sites.google.com/view/caltechwinterschool/home), January 22-24, 2025, Caltech. 
 
 
 Teaching
