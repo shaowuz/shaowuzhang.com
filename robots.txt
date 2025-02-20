@@ -1,0 +1,9 @@
+User-agent:*
+Disallow: /cv
+Disallow: /teaching
+Disallow: /page-archive
+Disallow: /port
+Disallow: /sitemap
+Disallow: /portfolio
+Disallow: /portfolio/portfolio-1
+Disallow: /portfolio/portfolio-2
