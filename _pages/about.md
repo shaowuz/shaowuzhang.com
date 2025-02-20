@@ -43,6 +43,8 @@ I am co-organizing [Winter School on Enumerative Geometry and Mirror Symmetry](h
 
 Teaching
 ------
+2024 - 2025 Winter, Ma 3 Introduction to Probability and Statistics, recitation <a href="2025_ma3_recitation/2025 Ma 3 rec6.pdf">6</a> 
+
 2024 - 2025 Fall, Ma 2 Differential Equations, TA <br> 
 2023 - 2024 Winter, Ma 3 Introduction to Probability and Statistics, Head TA <br> 
 2023 - 2024 Fall, Ma 120a Abstract Algebra, TA <br> 
