@@ -7,3 +7,5 @@ Disallow: /sitemap
 Disallow: /portfolio
 Disallow: /portfolio/portfolio-1
 Disallow: /portfolio/portfolio-2
+Disallow: /publication
+
