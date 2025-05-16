@@ -15,7 +15,9 @@ I am a graduate student at Caltech under the supervision of Professor [Tony Yue 
 
 Research
 ------
-Decomposition and Framing of F-bundles and Applications to Quantum Cohomology, joint with T. Hinault, C. Zhang, T. Y. Yu, ([arXiv:2411.02266](https://arxiv.org/pdf/2411.02266)), 2024.
+Unfolding of equivariant F-bundles and applications, joint with T. Hinault, C. Li, T. Y. Yu, C.Zhang, ([arXiv:2505.09950](arxiv.org/pdf/2505.09950)), 2025.
+
+Decomposition and Framing of F-bundles and Applications to Quantum Cohomology, joint with T. Hinault, T. Y. Yu, C. Zhang, ([arXiv:2411.02266](https://arxiv.org/pdf/2411.02266)), 2024.
 
 Topological Laplace Transform and Decomposition of nc-Hodge Structures, joint with T. Y. Yu, ([arXiv:2405.19549](https://arxiv.org/pdf/2405.19549)), 2024.
 
