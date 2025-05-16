@@ -47,8 +47,7 @@ I co-organized [Winter School on Enumerative Geometry and Mirror Symmetry](https
 
 Teaching
 ------
-2024 - 2025 Winter, Ma 3 Introduction to Probability and Statistics, Recitation <a href="2025_ma3_recitation/2025 Ma 3 rec1.pdf">1</a> <a href="2025_ma3_recitation/2025 Ma 3 rec2.pdf">2</a> <a href="2025_ma3_recitation/2025 Ma 3 rec3.pdf">3</a> <a href="2025_ma3_recitation/2025 Ma 3 rec4.pdf">4</a> <a href="2025_ma3_recitation/2025 Ma 3 rec5.pdf">5</a>  <a href="2025_ma3_recitation/2025 Ma 3 rec6.pdf">6</a> <a href="2025_ma3_recitation/2025 Ma 3 rec7.pdf">7</a>  <a href="2025_ma3_recitation/2025 Ma 3 rec8.pdf">8</a>  <a href="2025_ma3_recitation/2025 Ma 3 finalreview.pdf">2024-review-notes</a> 
-
+2024 - 2025 Winter, Ma 3 Introduction to Probability and Statistics,TA <be>
 2024 - 2025 Fall, Ma 2 Differential Equations, TA <br> 
 2023 - 2024 Winter, Ma 3 Introduction to Probability and Statistics, Head TA <br> 
 2023 - 2024 Fall, Ma 120a Abstract Algebra, TA <br> 
@@ -56,6 +55,8 @@ Teaching
 2022 - 2023 Winter, Ma 3 Introduction to Probability and Statistics, TA<br> 
 2022 - 2023 Fall, Ma 2 Differential Equations, TA 
 <!--Recitation <a href="2024_ma2_recitation/2024 Ma 2 rec1.pdf" target="_blank">1</a> <a href="2024_ma2_recitation/2024 Ma 2 rec2.pdf" target="_blank">2</a> <a href="2024_ma2_recitation/2024 Ma 2 rec3.pdf" target="_blank">3</a> <a href="2024_ma2_recitation/2024 Ma 2 rec4.pdf" target="_blank">4</a> <a href="2024_ma2_recitation/2024 Ma 2 rec5.pdf" target="_blank">5</a> <a href="2024_ma2_recitation/2024 Ma 2 rec6.pdf" target="_blank">6</a> <a href="2024_ma2_recitation/2024 Ma 2 rec7.pdf" target="_blank">7</a>  <a href="2024_ma2_recitation/2024 Ma 2 rec8.pdf" target="_blank">8</a> <a href="2024_ma2_recitation/2024 Ma 2 rec9.pdf" target="_blank">9</a> -->
+<!--Recitation <a href="2025_ma3_recitation/2025 Ma 3 rec1.pdf">1</a> <a href="2025_ma3_recitation/2025 Ma 3 rec2.pdf">2</a> <a href="2025_ma3_recitation/2025 Ma 3 rec3.pdf">3</a> <a href="2025_ma3_recitation/2025 Ma 3 rec4.pdf">4</a> <a href="2025_ma3_recitation/2025 Ma 3 rec5.pdf">5</a>  <a href="2025_ma3_recitation/2025 Ma 3 rec6.pdf">6</a> <a href="2025_ma3_recitation/2025 Ma 3 rec7.pdf">7</a>  <a href="2025_ma3_recitation/2025 Ma 3 rec8.pdf">8</a>  <a href="2025_ma3_recitation/2025 Ma 3 finalreview.pdf">2024-review-notes</a> -->
+
 
 <div style="position: absolute; bottom: 0; right: 0; width: 150px; height: 150px; overflow: hidden;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tJCzo5Z4VxWGoLMIi2qWfQJGmld6YScoEBXR1XMhch0&cl=ffffff&w=a"></script>
