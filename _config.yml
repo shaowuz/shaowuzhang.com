@@ -6,7 +6,7 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-User-agent: *
+User-agent: "*"
 Disallow: /sitemap.xml
 Disallow: /teaching/
 
