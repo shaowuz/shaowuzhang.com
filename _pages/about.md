@@ -26,7 +26,7 @@ Non-commutative Hodge Structures: Gluing Theorem, M2 Mémoire.
 
 Invited Talks
 ------
-2025.08 AMS Sectional Meeting, University of Denver, USA
+2025.08 AMS Sectional Meeting, University of Denver, USA  
 2025.06 Séminaire Mathjeunes, Jussieu, France  
 2025.06 Université de Strasbourg, Strasbourg, France    
 2025.04 MIT Symplectic Seminar, Massachusetts Institute of Technology, USA      
