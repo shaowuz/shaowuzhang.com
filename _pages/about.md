@@ -36,7 +36,7 @@ Invited Talks
 
 Education
 ------
-2022 - 2026 California Institute of Technology, PhD (Expected) <br> 
+2022 -      California Institute of Technology, PhD  <br> 
 2020 - 2022 University of Paris Saclay (Orsay), Master <br> 
 2016 - 2020 University of Hong Kong, BSc    
 
