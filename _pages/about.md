@@ -50,7 +50,7 @@ I volunteered at the Science Olympiad State Tournament 2025, CA, USA.
 
 Teaching
 ------
-2025 - 2026 Caltech Math TA Fellow.<br>
+2025 - 2026 Caltech Math TA Fellow <br>
 2024 - 2025 Winter, Ma 3 Introduction to Probability and Statistics,TA <br>
 2024 - 2025 Fall, Ma 2 Differential Equations, TA <br> 
 2023 - 2024 Winter, Ma 3 Introduction to Probability and Statistics, Head TA <br> 
