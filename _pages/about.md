@@ -26,6 +26,8 @@ Non-commutative Hodge Structures: Gluing Theorem, M2 Mémoire.
 
 Invited Talks
 ------
+2026.03 Seminar of Math-Physics Paris, France 
+2026.01 Workshop on Stokes phenomenon and Geometry, Fudan University, China
 2025.08 AMS Sectional Meeting, University of Denver, USA  
 2025.06 Séminaire Mathjeunes, Jussieu, France  
 2025.06 Université de Strasbourg, Strasbourg, France    
