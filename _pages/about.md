@@ -28,7 +28,7 @@ Invited Talks
 ------
 2026.03 Seminar of Math-Physics Paris, France  
 2026.02 Caltech Graduate Seminar, USA  
-2026.01 Lecture Series on F-bundles and Hodge Atoms, SIMIS, China    
+2026.01 Lecture Series on F-bundles and Hodge atoms, SIMIS, China (Notes <a href="{{ '/assets/talks/2026-01-simis/2026.01.12%20Hodge%20Atoms%20I.pdf' | relative_url }}" target="_blank">I</a>, <a href="{{ '/assets/talks/2026-01-simis/2026.01.12%20Hodge%20Atoms%20I.pdf' | relative_url }}" target="_blank">II</a>)  
 2025.08 AMS Sectional Meeting, University of Denver, USA  
 2025.06 Séminaire Mathjeunes, Jussieu, France  
 2025.06 Université de Strasbourg, Strasbourg, France    
