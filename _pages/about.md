@@ -45,8 +45,7 @@ Education
 2020 - 2022 University of Paris Saclay (Orsay), Master <br> 
 2016 - 2020 University of Hong Kong, BSc <br>    
 
-<br>
-<b>Visiting Student Programs:</b> <br>      
+Visiting Student Programs:       
 2018.09 - 2019.06 ETH Zurich <br> 
 2018.01 - 2018.06 Massachusetts Institute of Technology <br>     
 
