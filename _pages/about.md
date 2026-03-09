@@ -53,6 +53,8 @@ Education
 Activities
 ------
 
+I'm co-organizing this term [Caltech/USC Algebra & Geometry Seminar](https://sites.google.com/view/caltechwinterschool/home), CA, USA. 
+
 I co-organized [Winter School on Enumerative Geometry and Mirror Symmetry](https://sites.google.com/view/caltechwinterschool/home), January 22-24, 2025, Caltech.    
 
 I volunteered at the Science Olympiad State Tournament 2025, CA, USA.
