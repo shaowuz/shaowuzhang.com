@@ -27,10 +27,10 @@ Non-commutative Hodge Structures: Gluing Theorem, M2 Mémoire.
 Invited Talks
 ------
 2026.03-04 Seminar of Math-Physics Paris, ENS Paris, France  
-A mini-course on non-archimedean geometry (Notes <a href="{{ '/assets/talks/2026.03.07 Talk On Non-Archimedean Geometry 1.pdf' | relative_url }}" target="_blank">I</a>,wec II, III, IV)     
+A mini-course on non-archimedean geometry (notes <a href="{{ '/assets/talks/2026.03.07 Talk On Non-Archimedean Geometry 1.pdf' | relative_url }}" target="_blank">I</a>, II, III, IV)     
 
 2026.02 Caltech Graduate Seminar, USA  
-2026.01 A mini-course on F-bundles and Hodge atoms, SIMIS, China (Notes <a href="{{ '/assets/talks/2026.01.12 Hodge Atoms I.pdf' | relative_url }}" target="_blank">I</a>, <a href="{{ '/assets/talks/2026.01.12 Hodge Atoms II.pdf' | relative_url }}" target="_blank">II</a>)   
+2026.01 A mini-course on F-bundles and Hodge atoms, SIMIS, China (notes <a href="{{ '/assets/talks/2026.01.12 Hodge Atoms I.pdf' | relative_url }}" target="_blank">I</a>, <a href="{{ '/assets/talks/2026.01.12 Hodge Atoms II.pdf' | relative_url }}" target="_blank">II</a>)   
 2025.08 AMS Sectional Meeting, University of Denver, USA  
 2025.06 Séminaire Mathjeunes, Jussieu, France  
 2025.06 Université de Strasbourg, Strasbourg, France    
