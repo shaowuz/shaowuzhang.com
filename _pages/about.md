@@ -50,15 +50,6 @@ Visiting Student Programs:
 2018.09 - 2019.06 ETH Zurich <br> 
 2018.01 - 2018.06 Massachusetts Institute of Technology <br>     
 
-Activities
-------
-
-I'm co-organizing this term [Caltech/USC Algebra & Geometry Seminar](https://caltechuscag.github.io/), CA, USA. 
-
-I co-organized [Winter School on Enumerative Geometry and Mirror Symmetry](https://sites.google.com/view/caltechwinterschool/home), January 22-24, 2025, Caltech.    
-
-I volunteered at the Science Olympiad State Tournament 2025, CA, USA.
-
 
 Teaching
 ------
@@ -72,6 +63,16 @@ Teaching
 2022 - 2023 Fall, Ma 2 Differential Equations, TA 
 <!--Recitation <a href="2024_ma2_recitation/2024 Ma 2 rec1.pdf" target="_blank">1</a> <a href="2024_ma2_recitation/2024 Ma 2 rec2.pdf" target="_blank">2</a> <a href="2024_ma2_recitation/2024 Ma 2 rec3.pdf" target="_blank">3</a> <a href="2024_ma2_recitation/2024 Ma 2 rec4.pdf" target="_blank">4</a> <a href="2024_ma2_recitation/2024 Ma 2 rec5.pdf" target="_blank">5</a> <a href="2024_ma2_recitation/2024 Ma 2 rec6.pdf" target="_blank">6</a> <a href="2024_ma2_recitation/2024 Ma 2 rec7.pdf" target="_blank">7</a>  <a href="2024_ma2_recitation/2024 Ma 2 rec8.pdf" target="_blank">8</a> <a href="2024_ma2_recitation/2024 Ma 2 rec9.pdf" target="_blank">9</a> -->
 <!--Recitation <a href="2025_ma3_recitation/2025 Ma 3 rec1.pdf">1</a> <a href="2025_ma3_recitation/2025 Ma 3 rec2.pdf">2</a> <a href="2025_ma3_recitation/2025 Ma 3 rec3.pdf">3</a> <a href="2025_ma3_recitation/2025 Ma 3 rec4.pdf">4</a> <a href="2025_ma3_recitation/2025 Ma 3 rec5.pdf">5</a>  <a href="2025_ma3_recitation/2025 Ma 3 rec6.pdf">6</a> <a href="2025_ma3_recitation/2025 Ma 3 rec7.pdf">7</a>  <a href="2025_ma3_recitation/2025 Ma 3 rec8.pdf">8</a>  <a href="2025_ma3_recitation/2025 Ma 3 finalreview.pdf">2024-review-notes</a> -->
+
+Activities
+------
+
+I'm co-organizing this term [Caltech/USC Algebra & Geometry Seminar](https://caltechuscag.github.io/), CA, USA.   
+I co-organized [Winter School on Enumerative Geometry and Mirror Symmetry](https://sites.google.com/view/caltechwinterschool/home), January 22-24, 2025, Caltech.       
+I serviced as president of Caltech Squash club in 2025,2026.    
+I volunteered at the [Science Olympiad State Tournament 2025](https://socalscioly.org/?tab=tournaments&page=state), CA, USA.    
+I volunteered at [FUTURE of Physics 2025]([https://sites.google.com/view/caltechwinterschool/home](https://future.pma.caltech.edu/), USA   
+
 
 
 <div style="position: absolute; bottom: 0; right: 0; width: 150px; height: 150px; overflow: hidden;">
