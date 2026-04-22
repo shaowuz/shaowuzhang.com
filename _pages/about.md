@@ -54,6 +54,8 @@ Visiting Student Programs:
 Teaching
 ------
 2025 - 2026 [Caltech Math TA Fellow](https://pmatas.caltech.edu/) <br>
+Workshop: Using AI as a TA: Do's, Don'ts, and Dilemmas
+
 2024 - 2025 Winter, Ma 3 Introduction to Probability and Statistics,TA <br>
 2024 - 2025 Fall, Ma 2 Differential Equations, TA <br> 
 2023 - 2024 Winter, Ma 3 Introduction to Probability and Statistics, Head TA <br> 
