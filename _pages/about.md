@@ -73,7 +73,7 @@ I'm serving as the president of Caltech Squash club in 2025,2026.
 
 I co-organized [Winter School on Enumerative Geometry and Mirror Symmetry](https://sites.google.com/view/caltechwinterschool/home), January 22-24, 2025, Caltech.       
 I volunteered at the [Science Olympiad State Tournament 2025](https://socalscioly.org/?tab=tournaments&page=state), CA, USA.    
-I volunteered at [FUTURE of Physics 2025]([https://sites.google.com/view/caltechwinterschool/home](https://future.pma.caltech.edu/), USA   
+I volunteered at [FUTURE of Physics 2025](https://future.pma.caltech.edu/), USA   
 
 
 
